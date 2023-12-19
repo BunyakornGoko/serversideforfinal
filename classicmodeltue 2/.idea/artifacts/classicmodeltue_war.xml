@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="classicmodeltue:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>classicmodeltue</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="classicmodeltue-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="classicmodeltue:war exploded" />
+    </root>
+  </artifact>
+</component>

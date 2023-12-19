@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8719cd5-98e4-4db4-b396-9634f6bfb35c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/serverside.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classicmodeltue/.idea/artifacts/classicmodeltue_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classicmodeltue/.idea/artifacts/classicmodeltue_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classicmodeltue/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python for beginer/Beginer/Pygame" beforeDir="false" afterPath="$PROJECT_DIR$/../Python for beginer/Beginer/Pygame" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client side server" beforeDir="false" afterPath="$PROJECT_DIR$/../client side server" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../int201-js-dom-practice-exam" beforeDir="false" afterPath="$PROJECT_DIR$/../int201-js-dom-practice-exam" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/classicmodeltue/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue/src/main/java/sit/int202/classicmodeltue/repositories/OfficeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/classicmodeltue/src/main/java/sit/int202/classicmodeltue/repositories/OfficeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue/src/main/java/sit/int202/classicmodeltue/servlet/DeleteServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue/src/main/java/sit/int202/classicmodeltue/servlet/FindbycityorcountryServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue/src/main/java/sit/int202/classicmodeltue/servlet/InsertServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue/src/main/java/sit/int202/classicmodeltue/servlet/UpdateServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue/src/main/webapp/deleteoffice.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue/src/main/webapp/findbycityorcountry.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue/src/main/webapp/insertoffice.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue/src/main/webapp/office-list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/classicmodeltue/src/main/webapp/office-list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue/src/main/webapp/updateoffice.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/java/sit/int202/classicmodeltue/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/java/sit/int202/classicmodeltue/InitPassword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/java/sit/int202/classicmodeltue/TestArgon2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/java/sit/int202/classicmodeltue/TestEntityRelationship.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/java/sit/int202/classicmodeltue/TestJpa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/java/sit/int202/classicmodeltue/TestPagination.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/java/sit/int202/classicmodeltue/TestQuery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/java/sit/int202/classicmodeltue/TestQueryParameter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/java/sit/int202/classicmodeltue/Testemployees.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/java/sit/int202/classicmodeltue/entities/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/java/sit/int202/classicmodeltue/entities/Employees.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/java/sit/int202/classicmodeltue/entities/Environment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/java/sit/int202/classicmodeltue/entities/Office.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/java/sit/int202/classicmodeltue/entities/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/java/sit/int202/classicmodeltue/filters/AuthenticationFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/java/sit/int202/classicmodeltue/filters/LoggingFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/java/sit/int202/classicmodeltue/models/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/java/sit/int202/classicmodeltue/models/CartItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/java/sit/int202/classicmodeltue/models/ClassicModelLineItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/java/sit/int202/classicmodeltue/models/TestCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/java/sit/int202/classicmodeltue/repositories/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/java/sit/int202/classicmodeltue/repositories/EntityManagerBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/java/sit/int202/classicmodeltue/repositories/OfficeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/java/sit/int202/classicmodeltue/repositories/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/java/sit/int202/classicmodeltue/servlet/AddToCartServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/java/sit/int202/classicmodeltue/servlet/AuthenticationServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/java/sit/int202/classicmodeltue/servlet/ProductListServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/java/sit/int202/classicmodeltue/servlet/ViewCartServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/java/sit/int202/classicmodeltue/servlet/officeListServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/WEB-INF/jsp/login-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/assets/home-info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/assets/images/cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S10_1949.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S10_4757.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S10_4962.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S12_1099.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S12_1108.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S12_3148.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S12_3380.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S12_3891.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S12_3990.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S12_4675.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S18_1129.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S18_1589.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S18_1889.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S18_1984.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S18_2238.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S18_2870.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S18_3232.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S18_3233.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S18_3278.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S18_3482.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S18_3685.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S18_4027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S18_4721.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S18_4933.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S24_1046.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S24_1444.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S24_1628.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S24_2766.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S24_2840.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S24_2887.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S24_2972.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S24_3191.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S24_3371.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S24_3432.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S24_3856.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S24_4048.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S24_4620.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Classic Cars/S700_2824.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Motorcycles/S10_1678.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Motorcycles/S10_2016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Motorcycles/S10_4698.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Motorcycles/S12_2823.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Motorcycles/S18_2625.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Motorcycles/S18_3782.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Motorcycles/S24_1578.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Motorcycles/S24_2000.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Motorcycles/S24_2360.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Motorcycles/S32_1374.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Motorcycles/S32_2206.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Motorcycles/S32_4485.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Motorcycles/S50_4713.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Planes/S18_1662.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Planes/S18_2581.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Planes/S24_1785.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Planes/S24_2841.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Planes/S24_3949.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Planes/S24_4278.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Planes/S700_1691.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Planes/S700_2466.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Planes/S700_2834.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Planes/S700_3167.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Planes/S700_4002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Planes/S72_1253.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Ships/S18_3029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Ships/S24_2011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Ships/S32_3207.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Ships/S50_1514.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Ships/S700_1138.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Ships/S700_1938.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Ships/S700_2047.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Ships/S700_2610 - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Ships/S700_2610.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Ships/S700_3505.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Ships/S700_3962.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Ships/S72_3212.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Trains/S18_3259.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Trains/S32_3207.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Trains/S50_1514.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Trucks and Buses/S12_1666.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Trucks and Buses/S12_4473.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Trucks and Buses/S18_1097.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Trucks and Buses/S18_2319.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Trucks and Buses/S18_2432.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Trucks and Buses/S18_4600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Trucks and Buses/S24_2300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Trucks and Buses/S32_1268.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Trucks and Buses/S32_2509.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Trucks and Buses/S32_3522.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Trucks and Buses/S50_1392.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Vintage Cars/S18_1342.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Vintage Cars/S18_1367.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Vintage Cars/S18_1749.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Vintage Cars/S18_2248.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Vintage Cars/S18_2325.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Vintage Cars/S18_2795.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Vintage Cars/S18_2949.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Vintage Cars/S18_2957.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Vintage Cars/S18_3136.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Vintage Cars/S18_3140.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Vintage Cars/S18_3320.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Vintage Cars/S18_3856.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Vintage Cars/S18_4409.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Vintage Cars/S18_4522.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Vintage Cars/S18_4668.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Vintage Cars/S24_1937.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Vintage Cars/S24_2022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Vintage Cars/S24_3151.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Vintage Cars/S24_3420.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Vintage Cars/S24_3816.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Vintage Cars/S24_3969.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Vintage Cars/S24_4258.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Vintage Cars/S32_4289.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/model-images/Vintage Cars/S50_1341.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/new-office-list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/new-product-list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/office-list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/product-list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicmodeltue3/src/main/webapp/view-cart.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple/.idea/artifacts/simple_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple/.idea/artifacts/simple_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../งานkmutt/Programing" beforeDir="false" afterPath="$PROJECT_DIR$/../งานkmutt/Programing" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2Zc9jAqYwaV3T9zEuqvVuO7kH50" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bunyakorngoko/Documents/serverside&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8719cd5-98e4-4db4-b396-9634f6bfb35c" name="Changes" comment="" />
+      <created>1702710633492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702710633492</updated>
+      <workItem from="1702710634543" duration="45000" />
+      <workItem from="1702800313614" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
